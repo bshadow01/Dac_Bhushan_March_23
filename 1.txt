@@ -1,0 +1,19 @@
+Q)what is difference between JDK,JRE and JVM
+Q)what is JIT compiler
+Q)what is class loader
+Q)Explain various memory logical partitions 
+Q)what gives Java its "write once and run anywhere nature"
+Q)Explain History of Java?who invented Java?
+Q)what was original name of Java?why it was renamed?
+Q)List features of Java
+Q)List various Datatypes in Java 
+Q)what is difference between 
+System.out.print
+System.out.println
+System.err.print
+Q)How is Java Platform independent 
+Q)what is bytecode?How is it different from machine code
+Q)what is difference between Jar file & Runnable jar file
+Q)what is difference between Runnable jar file & exe file
+Q)How is C platform dependent language
+Q)what is differnce between path & classpath
